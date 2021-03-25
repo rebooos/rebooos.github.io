@@ -1,0 +1,35 @@
+baseURL = "https://tech.rebooos.pro"
+languageCode = "en-us"
+title = "Morozov D"
+copyright = "Copyright © 2021, Morozov Dmitrii and the Hugo Authors; all rights reserved."
+theme = "npq-hugo"
+pygmentsUseClasses=true
+
+[params]
+  author = "Dmitrii"
+  description = "Web - developer"
+  keywords = "My personal page"
+  useAvatar = true
+  microBlogSection = "posts"
+  displayMicroBlog = false
+  displayRecent = true
+  displayHomeContent = false
+  recentMax = 4
+  mail = "dvmorozov74@gmail.com"
+
+[menu]
+  [[menu.main]]
+    name = "CV"
+    pre = "<i class=\"fas fa-home fa-sm\"></i>"
+    url = "/"
+    weight = -9 
+  [[menu.main]]
+    name = "github"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/rebooos"
+    weight = -6 
+  [[menu.main]]
+    name = "contact"
+    pre = "<i class=\"far fa-envelope\"></i>"
+    url = "/contact"
+    weight = -1 
