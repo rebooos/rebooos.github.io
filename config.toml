@@ -7,7 +7,7 @@ pygmentsUseClasses=true
 
 [params]
   author = "Dmitrii"
-  description = "Web - developer"
+  description = "Developer"
   keywords = "My personal page"
   useAvatar = true
   microBlogSection = "posts"
@@ -21,8 +21,13 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "CV"
     pre = "<i class=\"fas fa-home fa-sm\"></i>"
-    url = "/"
-    weight = -9 
+    url = "/default"
+    weight = -9
+  [[menu.main]]
+    name = "It's me"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "/hobby"
+    weight = -6
   [[menu.main]]
     name = "github"
     pre = "<i class=\"fab fa-github fa-ms\"></i>"
