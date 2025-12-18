@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "My CV"
 date: 2024-07-25T12:00:00+00:00
 draft: false
 ---
@@ -24,7 +24,7 @@ Head of Engineering CDP Department
 - Ensuring stable performance under high load (up to 300,000 rpm).
 - Managing a team of 16 engineers: setting goals, prioritizing tasks, and ensuring delivery quality.
 - Keeping all platforms up to date, reducing technical debt based on product roadmap priorities.
-- **Technologies:** Go, Redis, Kafka, ClickHouse, PostgreSQL and Kubernetes.
+- **Technologies:** Go, Redis, Kafka, Docker, ClickHouse, PostgreSQL and Kubernetes.
 - **Skills:** Техническое руководство · Управлени проектами · Коммуникация · Управление командой · ClickHouse · PostgreSQL · Go · SQL
 
 **Software Development Lead**
@@ -37,7 +37,7 @@ Head of Engineering CDP Department
 
 ---
 
-### **SberMegaMarket**
+### **sbermegamarket.ru**
 *Full-time · 7 mos (Remote)*
 
 **Senior Backend Developer**
@@ -51,7 +51,7 @@ Head of Engineering CDP Department
 
 ---
 
-### **Ситимобил | Citymobil**
+### **citymobil.ru**
 *Full-time · 1 yr 1 mo*
 
 **Senior Software Developer**
@@ -63,11 +63,11 @@ Head of Engineering CDP Department
 - Refactored a monolithic application into microservices using CQRS architecture on Symfony.
 - Replaced Google Maps geocoder with an internal team geocoding service for operator workstations.
 - Participated in product grooming sessions, planning and estimating tasks for the team.
-- **Skills:** PostgreSQL · Программирование · Коммуникация · Go · Анализ кода · SQL
+- **Skills:** PostgreSQL · Программирование · Коммуникация · PHP · Go · Анализ кода · SQL
 
 ---
 
-### **GILMON**
+### **gilmon.ru**
 *Full-time · 2 yrs 8 mos (Chelyabinsk Metropolitan Area)*
 
 **Senior Software Developer**
@@ -78,11 +78,11 @@ Head of Engineering CDP Department
 - Developed the company document management system: generated DOCX documents of varying complexity without third-party libraries.
 - Created utilities such as URL shorteners and tools for tracking external link clicks.
 - Refactored legacy code using Eloquent and Symfony components.
-- **Skills:** PostgreSQL · Программирование · Коммуникация · Анализ кода · SQL
+- **Skills:** PostgreSQL · PHP · Программирование · Коммуникация · Анализ кода · SQL
 
 ---
 
-### **GDTeam**
+### **gdteam.ru**
 *Full-time · 11 mos (Moscow, Moscow City, Russia)*
 
 **Senior Software Developer**
@@ -91,11 +91,11 @@ Head of Engineering CDP Department
 - Integrated payment systems and social media platforms.
 - Developed and interacted with services using RESTful API and SOAP.
 - Utilized Memcached, SimpleCMS, and jQuery to optimize web application performance.
-- **Skills:** PostgreSQL · Программирование · Коммуникация · Анализ кода · SQL
+- **Skills:** PostgreSQL · PHP · Программирование · Коммуникация · Анализ кода · SQL
 
 ---
 
-### **Челябинское Областное телевидение**
+### **челябинское областное телевидение**
 *Full-time · 1 yr 7 mos (Chelyabinsk Metropolitan Area)*
 
 **PHP Web Developer**
@@ -107,7 +107,7 @@ Head of Engineering CDP Department
 
 ---
 
-### **CityAds Media**
+### **cityads.com**
 *Full-time · 1 yr 2 mos (Moscow, Moscow City, Russia)*
 
 **PHP Web Developer**
@@ -121,7 +121,7 @@ Head of Engineering CDP Department
 
 ---
 
-### **ДубльСИ**
+### **дубль си**
 *Full-time · 5 mos (Chelyabinsk Metropolitan Area)*
 
 **Инженер**
