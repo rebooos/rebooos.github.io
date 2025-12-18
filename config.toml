@@ -1,6 +1,6 @@
 baseURL = "https://rebooos.github.io"
 languageCode = "en-us"
-title = "Morozov D. V."
+title = "Morozov Dmitrii"
 copyright = "Copyright © 2021, Morozov Dmitrii and the Hugo Authors; all rights reserved."
 theme = "npq-hugo"
 pygmentsUseClasses=true
@@ -19,14 +19,14 @@ pygmentsUseClasses=true
 
 [menu]
   [[menu.main]]
-    name = "It's me"
-    pre = "<i class=\"fab fa-github fa-ms\"></i>"
-    url = "/hobby"
-    weight = -9
-  [[menu.main]]
     name = "CV"
     pre = "<i class=\"fas fa-home fa-sm\"></i>"
     url = "/default"
+    weight = -9
+  [[menu.main]]
+    name = "Hobby"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "/hobby"
     weight = -6
   [[menu.main]]
     name = "contact"
